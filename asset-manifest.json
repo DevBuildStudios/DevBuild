@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DevBuild/static/css/main.34a633a3.css",
-    "main.js": "/DevBuild/static/js/main.c67c997f.js",
-    "static/media/devbuild-logo.png": "/DevBuild/static/media/devbuild-logo.7c1665989f66511c6359.png",
-    "static/media/achievement.png": "/DevBuild/static/media/achievement.22624aef7b47854c64b6.png",
-    "index.html": "/DevBuild/index.html",
-    "main.34a633a3.css.map": "/DevBuild/static/css/main.34a633a3.css.map",
-    "main.c67c997f.js.map": "/DevBuild/static/js/main.c67c997f.js.map"
+    "main.css": "./static/css/main.34a633a3.css",
+    "main.js": "./static/js/main.41c02df5.js",
+    "static/media/devbuild-logo.png": "./static/media/devbuild-logo.7c1665989f66511c6359.png",
+    "static/media/achievement.png": "./static/media/achievement.22624aef7b47854c64b6.png",
+    "index.html": "./index.html",
+    "main.34a633a3.css.map": "./static/css/main.34a633a3.css.map",
+    "main.41c02df5.js.map": "./static/js/main.41c02df5.js.map"
   },
   "entrypoints": [
     "static/css/main.34a633a3.css",
-    "static/js/main.c67c997f.js"
+    "static/js/main.41c02df5.js"
   ]
 }
