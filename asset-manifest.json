@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/DevBuild/static/css/main.41d9c24c.css",
-    "main.js": "/DevBuild/static/js/main.9447a074.js",
+    "main.css": "/DevBuild/static/css/main.4fa6e47b.css",
+    "main.js": "/DevBuild/static/js/main.3e3636ad.js",
     "static/media/devbuild-logo.png": "/DevBuild/static/media/devbuild-logo.7c1665989f66511c6359.png",
     "index.html": "/DevBuild/index.html",
-    "main.41d9c24c.css.map": "/DevBuild/static/css/main.41d9c24c.css.map",
-    "main.9447a074.js.map": "/DevBuild/static/js/main.9447a074.js.map"
+    "main.4fa6e47b.css.map": "/DevBuild/static/css/main.4fa6e47b.css.map",
+    "main.3e3636ad.js.map": "/DevBuild/static/js/main.3e3636ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.41d9c24c.css",
-    "static/js/main.9447a074.js"
+    "static/css/main.4fa6e47b.css",
+    "static/js/main.3e3636ad.js"
   ]
 }
