@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.73fc0b94.css",
-    "main.js": "./static/js/main.b5e0447e.js",
+    "main.css": "./static/css/main.0fde06f4.css",
+    "main.js": "./static/js/main.b1569c33.js",
     "static/media/miningrails.png": "./static/media/miningrails.9ff7ffe2a8c7eb7a9581.png",
     "static/media/reactorsite.jpg": "./static/media/reactorsite.d4d2316292db5affbbab.jpg",
     "static/media/islandsofchaos.jpg": "./static/media/islandsofchaos.d7c5083a30fa10b7ff6f.jpg",
     "static/media/devbuild-logo.png": "./static/media/devbuild-logo.7c1665989f66511c6359.png",
     "static/media/achievement.png": "./static/media/achievement.22624aef7b47854c64b6.png",
     "index.html": "./index.html",
-    "main.73fc0b94.css.map": "./static/css/main.73fc0b94.css.map",
-    "main.b5e0447e.js.map": "./static/js/main.b5e0447e.js.map"
+    "main.0fde06f4.css.map": "./static/css/main.0fde06f4.css.map",
+    "main.b1569c33.js.map": "./static/js/main.b1569c33.js.map"
   },
   "entrypoints": [
-    "static/css/main.73fc0b94.css",
-    "static/js/main.b5e0447e.js"
+    "static/css/main.0fde06f4.css",
+    "static/js/main.b1569c33.js"
   ]
 }
