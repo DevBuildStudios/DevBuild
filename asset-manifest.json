@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.7d902e54.css",
-    "main.js": "./static/js/main.dde292c9.js",
+    "main.css": "./static/css/main.e40f4638.css",
+    "main.js": "./static/js/main.0a305128.js",
     "static/media/miningrails.png": "./static/media/miningrails.9ff7ffe2a8c7eb7a9581.png",
     "static/media/reactorsite.jpg": "./static/media/reactorsite.d4d2316292db5affbbab.jpg",
     "static/media/islandsofchaos.jpg": "./static/media/islandsofchaos.d7c5083a30fa10b7ff6f.jpg",
@@ -10,11 +10,11 @@
     "static/media/achievement.png": "./static/media/achievement.22624aef7b47854c64b6.png",
     "static/media/roblox-logo.png": "./static/media/roblox-logo.78caf088dbaa9cd2184d.png",
     "index.html": "./index.html",
-    "main.7d902e54.css.map": "./static/css/main.7d902e54.css.map",
-    "main.dde292c9.js.map": "./static/js/main.dde292c9.js.map"
+    "main.e40f4638.css.map": "./static/css/main.e40f4638.css.map",
+    "main.0a305128.js.map": "./static/js/main.0a305128.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d902e54.css",
-    "static/js/main.dde292c9.js"
+    "static/css/main.e40f4638.css",
+    "static/js/main.0a305128.js"
   ]
 }
