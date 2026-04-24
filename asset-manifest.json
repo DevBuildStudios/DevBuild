@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.39ba2bf3.css",
-    "main.js": "./static/js/main.aef5e631.js",
+    "main.css": "./static/css/main.d3ffc5e8.css",
+    "main.js": "./static/js/main.74ff49d2.js",
     "static/media/miningrails.png": "./static/media/miningrails.9ff7ffe2a8c7eb7a9581.png",
     "static/media/reactorsite.jpg": "./static/media/reactorsite.d4d2316292db5affbbab.jpg",
     "static/media/islandsofchaos.jpg": "./static/media/islandsofchaos.d7c5083a30fa10b7ff6f.jpg",
-    "static/media/job-for-hire-card.png": "./static/media/job-for-hire-card.bdad50408c17bf221341.png",
-    "static/media/job-hiring-card.png": "./static/media/job-hiring-card.850408147a8e409de0d1.png",
     "static/media/embed-thumbnail.png": "./static/media/embed-thumbnail.42744ea27227fe74f675.png",
     "static/media/home-collaborative-projects.png": "./static/media/home-collaborative-projects.d08eb0af96b6ab8b2e16.png",
     "static/media/achievement.png": "./static/media/achievement.22624aef7b47854c64b6.png",
     "static/media/roblox-logo.png": "./static/media/roblox-logo.78caf088dbaa9cd2184d.png",
     "index.html": "./index.html",
-    "main.39ba2bf3.css.map": "./static/css/main.39ba2bf3.css.map",
-    "main.aef5e631.js.map": "./static/js/main.aef5e631.js.map"
+    "main.d3ffc5e8.css.map": "./static/css/main.d3ffc5e8.css.map",
+    "main.74ff49d2.js.map": "./static/js/main.74ff49d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.39ba2bf3.css",
-    "static/js/main.aef5e631.js"
+    "static/css/main.d3ffc5e8.css",
+    "static/js/main.74ff49d2.js"
   ]
 }
