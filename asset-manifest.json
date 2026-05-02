@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ce6a3584.css",
+    "main.js": "./static/js/main.5e914061.js",
+    "static/media/miningrails.png": "./static/media/miningrails.9ff7ffe2a8c7eb7a9581.png",
+    "static/media/reactorsite.jpg": "./static/media/reactorsite.d4d2316292db5affbbab.jpg",
+    "static/media/CreationsAndProjects.png": "./static/media/CreationsAndProjects.fbff1e43b5ccae0b70df.png",
+    "static/media/CommunityEvents.png": "./static/media/CommunityEvents.8e7adc45c1b235536614.png",
+    "static/media/AssetsLibrary.png": "./static/media/AssetsLibrary.32426e51e87500795bee.png",
+    "static/media/islandsofchaos.jpg": "./static/media/islandsofchaos.d7c5083a30fa10b7ff6f.jpg",
+    "static/media/embed-thumbnail.png": "./static/media/embed-thumbnail.42744ea27227fe74f675.png",
+    "static/media/JobPostingService.png": "./static/media/JobPostingService.55cb4c728716c3ac282b.png",
+    "static/media/achievement.png": "./static/media/achievement.22624aef7b47854c64b6.png",
+    "static/media/roblox-logo.png": "./static/media/roblox-logo.78caf088dbaa9cd2184d.png",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ce6a3584.css",
+    "static/js/main.5e914061.js"
+  ]
+}
