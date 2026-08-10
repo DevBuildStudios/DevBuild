@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bc66c188.css",
+    "main.js": "./static/js/main.d8e6e115.js",
+    "static/media/support-devbuild.webp": "./static/media/support-devbuild.e25d81fa6084bcfcaffd.webp",
+    "static/media/embed-thumbnail.png": "./static/media/embed-thumbnail.42744ea27227fe74f675.png",
+    "static/media/achievement.png": "./static/media/achievement.22624aef7b47854c64b6.png",
+    "static/media/roblox-logo.png": "./static/media/roblox-logo.78caf088dbaa9cd2184d.png",
+    "static/media/73138-world.png": "./static/media/73138-world.f15b5509c49c1db9b15e.png",
+    "index.html": "./index.html",
+    "static/media/shop-cart.svg": "./static/media/shop-cart.14e7a6931b836ccaeb50692c77909717.svg"
+  },
+  "entrypoints": [
+    "static/css/main.bc66c188.css",
+    "static/js/main.d8e6e115.js"
+  ]
+}
