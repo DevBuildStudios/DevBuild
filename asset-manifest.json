@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b3afd913.css",
+    "main.js": "./static/js/main.24ac69e8.js",
+    "static/media/site-background.png": "./static/media/site-background.9a5163d9a2bf6e0b6d4a.png",
+    "static/media/home-hero-background.png": "./static/media/home-hero-background.5631b48e5345ae95db72.png",
+    "static/media/support-devbuild.webp": "./static/media/support-devbuild.e25d81fa6084bcfcaffd.webp",
+    "static/media/roblox-studio-platform.png": "./static/media/roblox-studio-platform.0d2345ad2bd9082c36f5.png",
+    "static/media/embed-thumbnail.png": "./static/media/embed-thumbnail.42744ea27227fe74f675.png",
+    "static/media/plugin-gapfill.png": "./static/media/plugin-gapfill.e778b30f5b56abc8fb5f.png",
+    "static/media/plugin-f3x.png": "./static/media/plugin-f3x.347b93b91a073457c0b5.png",
+    "static/media/plugin-integrity-core.png": "./static/media/plugin-integrity-core.74c31afb02c0e8f5d4a5.png",
+    "static/media/roblox-platform.png": "./static/media/roblox-platform.4d1e72b3e5c0755b8d5b.png",
+    "static/media/roblox-logo.png": "./static/media/roblox-logo.78caf088dbaa9cd2184d.png",
+    "static/media/site-background-mobile.webp": "./static/media/site-background-mobile.8aa472e0fed78fe62ea1.webp",
+    "static/media/home-hero-background-mobile.webp": "./static/media/home-hero-background-mobile.006fe313919574f44db4.webp",
+    "index.html": "./index.html",
+    "static/media/shop-cart.svg": "./static/media/shop-cart.14e7a6931b836ccaeb50692c77909717.svg"
+  },
+  "entrypoints": [
+    "static/css/main.b3afd913.css",
+    "static/js/main.24ac69e8.js"
+  ]
+}

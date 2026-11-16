@@ -1,0 +1,17 @@
+# DevBuild Studios
+
+DevBuild Studios is a Roblox and Discord community website for ban appeals, verified community advertisements, Roblox asset discovery, job postings, applications, and account tools.
+
+## Useful URLs
+
+- Home: https://www.devbuildstudios.dev/
+- Roblox assets: https://www.devbuildstudios.dev/?view=roblox-assets
+- Verified advertisements: https://www.devbuildstudios.dev/?view=advertising
+- Job postings: https://www.devbuildstudios.dev/?view=job-postings
+- Ban appeals: https://www.devbuildstudios.dev/?view=ban-appeals
+- Privacy policy: https://www.devbuildstudios.dev/?view=privacy-policy
+- Terms of service: https://www.devbuildstudios.dev/?view=terms-of-service
+
+## Notes for assistants
+
+Public website content can be summarized. Administrator-only views, user account state, ban appeal details, and moderation information require authenticated access and should not be inferred from public pages.
